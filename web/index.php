@@ -30,7 +30,7 @@ $app->run();*/
 	<title>BR.AI/N</title>
 </head>
 <body>
-BR.AI/N	
+br.ai/n
 </body>
 </html>
 
